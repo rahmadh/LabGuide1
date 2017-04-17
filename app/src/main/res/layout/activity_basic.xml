@@ -13,6 +13,12 @@
         android:paddingTop="@dimen/activity_vertical_margin"
         tools:context="com.smktelkom.rahmad.bookinventory.activity.BasicActivity">
 
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"></android.support.v7.widget.Toolbar>
+
 
         <EditText
             android:id="@+id/editIsbn"
@@ -20,6 +26,7 @@
             android:layout_height="wrap_content"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
+            android:layout_marginTop="60dp"
             android:hint="ISBN" />
 
 
