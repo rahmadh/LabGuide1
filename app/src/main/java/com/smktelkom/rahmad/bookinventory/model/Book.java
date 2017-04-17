@@ -3,7 +3,7 @@ package com.smktelkom.rahmad.bookinventory.model;
 import java.io.Serializable;
 
 /**
- * Created by Melanihariono on 4/15/2017.
+ * Created by Rahmadd on 4/15/2017.
  */
 
 public class Book implements Serializable {

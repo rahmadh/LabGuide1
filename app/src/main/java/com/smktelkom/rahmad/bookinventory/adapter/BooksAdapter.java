@@ -20,7 +20,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
- * Created by Melanihariono on 4/16/2017.
+ * Created by Rahmadd on 4/16/2017.
  */
 
 public class BooksAdapter extends RecyclerView.Adapter<BooksAdapter.MyViewHolder> implements Filterable {
